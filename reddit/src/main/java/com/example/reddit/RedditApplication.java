@@ -8,7 +8,7 @@ public class RedditApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RedditApplication.class, args);
-		System.out.println("Welcome to Reddit!");
+		System.out.println("Welcome to Reddit clone app!");
 	}
 
 }
